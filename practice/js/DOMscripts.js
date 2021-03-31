@@ -18,3 +18,10 @@ $(document).ready(function() {
     $("body").addClass("blue-background");
   });
 });
+
+$(document).ready(function() {
+  $("button#grey").click(function() {
+    $("body").removeClass();
+    $("body").addClass("grey-background");
+  });
+});
