@@ -1,0 +1,21 @@
+#sidebar {
+  background-color: #e9ecef;
+}
+
+.title {
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
+
+.green-background {
+  background-color: rgb(161, 184, 161);
+}
+
+.white-background {
+  background-color: white;
+}
+
+.blue-background {
+  background-color: rgb(136, 151, 176);
+}

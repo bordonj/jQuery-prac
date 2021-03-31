@@ -8,7 +8,7 @@ $(document).ready(function() {
   $("ul#webpage").children("li").first().click(function() {
     $(this).remove();
   });
-
+});
   $("button#goodbye").click(function() {
     $("ul#user").prepend("<li>Goodbye!</li>");
     $("ul#webpage").prepend("<li>Goodbye, dear user!</li>");
@@ -23,7 +23,7 @@ $(document).ready(function() {
     // });
     // $('li').click( () => alert('hi'));
   });
-});
+
 
 
 
