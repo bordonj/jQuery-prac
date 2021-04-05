@@ -1,4 +1,18 @@
+.center-img {
+  display: block;
+  margin: auto;
+  width: 45%;
+}
+
 #walrus-showing {
+  display: none;
+}
+
+#doggy-showing  {
+  display: none;
+}
+
+#all-img {
   display: none;
 }
 
@@ -11,6 +25,4 @@
   text-decoration: underline;
 }
 
-#doggy-showing  {
-  display: none;
-}
+
